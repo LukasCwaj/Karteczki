@@ -1,0 +1,12 @@
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\bin\Debug\Karteczki.exe.config
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\bin\Debug\Karteczki.exe
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\bin\Debug\Karteczki.pdb
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\obj\Debug\Karteczki.Form1.resources
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\obj\Debug\Karteczki.Properties.Resources.resources
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\obj\Debug\Karteczki.csproj.GenerateResource.cache
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\obj\Debug\Karteczki.csproj.CoreCompileInputs.cache
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\obj\Debug\Karteczki.exe
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\obj\Debug\Karteczki.pdb
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\obj\Debug\Karteczki.csprojAssemblyReference.cache
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\obj\Debug\Karteczki.Form2.resources
+C:\Users\Cwaniak\source\repos\Karteczki\Karteczki\obj\Debug\WindowsFormsApp1.Quiz.resources
